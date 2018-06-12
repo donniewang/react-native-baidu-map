@@ -7,9 +7,9 @@ import {
 
 import React, {
   Component,
-  PropTypes
 } from 'react';
 
+import PropTypes from 'prop-types';
 
 const _module = NativeModules.BaiduGeolocationModule;
 
